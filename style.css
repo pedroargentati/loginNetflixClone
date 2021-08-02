@@ -1,0 +1,39 @@
+body {
+    background-color: #181818;
+}
+.container {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+input, button {
+    height: 65px;
+    font-size: 1.2rem;
+    padding: 0 20px;
+    border-radius: 5px;
+}
+
+input {
+    background: #2e2e2e;
+    border: 0;
+    margin-bottom: 2px;
+    text-align:
+}
+button {
+    background: #181818;
+    border: 1px solid #4d4d4d;
+    color: #AAA;
+    margin: 20px 0;
+    cursor: pointer;
+}
+button:hover {
+    background: #2C3A47;
+}
+a {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px auto;
+    color: #AAA;
+    cursor: pointer;
+}
